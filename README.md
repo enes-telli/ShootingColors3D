@@ -1,5 +1,5 @@
 # ShootingColors3D
-Level based puzzle game made with Unity.
+Level-based puzzle game made with Unity.
 
 ## Screenshots
 
