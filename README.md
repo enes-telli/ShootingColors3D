@@ -1,4 +1,4 @@
-# ShootingColor3D
+# ShootingColors3D
 Level based puzzle game made with Unity.
 
 ## Screenshots
