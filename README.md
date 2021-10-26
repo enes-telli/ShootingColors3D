@@ -1,5 +1,5 @@
 # ShootingColors3D
-Level-based puzzle game made with Unity.
+Level-based puzzle game made with Unity. The aim of the game is to try to create the same shape as shown in the respective level with color shooters.
 
 ## Screenshots
 
